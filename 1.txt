@@ -1,3 +1,4 @@
 commit 1
 commit 2
 other branch commit
+other branch commit
